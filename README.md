@@ -7,5 +7,5 @@ python3 -m venv venv/
 
 Install dependencies in the virtual environment
 ```
-pip install -e .
+pip install -r requirements.txt
 ```
